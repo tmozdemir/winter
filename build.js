@@ -13,7 +13,7 @@ const plan = JSON.parse(fs.readFileSync(here('./plan.json'), 'utf8'));
 const plain = process.argv.includes('--plain');
 const passcode = process.env.PASSCODE;
 if (!plain && !passcode) {
-  console.error("Set a passcode first:  PASSCODE='four or more words' node build.mjs");
+  console.error("Set a passcode first:  PASSCODE='leaves-orange-woody-crunchy' node build.mjs");
   process.exit(1);
 }
 

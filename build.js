@@ -1,6 +1,6 @@
 // Builds index.html: the winter plan, encrypted behind a passcode.
 //
-//   PASSCODE='your passphrase here' node build.mjs
+//   PASSCODE='leaves-orange-woody-crunchy' node build.mjs
 //   node build.mjs --plain      (unencrypted preview.html, for checking only; do not publish)
 //
 // Edit plan.json, run the build again, commit index.html.
@@ -13,7 +13,7 @@ const plan = JSON.parse(fs.readFileSync(here('./plan.json'), 'utf8'));
 const plain = process.argv.includes('--plain');
 const passcode = process.env.PASSCODE;
 if (!plain && !passcode) {
-  console.error("Set a passcode first:  PASSCODE='leaves-orange-woody-crunchy' node build.mjs");
+  console.error("Set a passcode first:  PASSCODE='its-four-random-words' node build.mjs");
   process.exit(1);
 }
 

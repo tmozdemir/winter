@@ -1,0 +1,74 @@
+{
+  "title": "Ali’s winter plan, one week at a time",
+  "range": "9 Nov to 10 Jan",
+  "weeks": [
+    { "num": "Week 1", "dates": "9–15 Nov", "who": "mum", "weekend": "Fri 13–Sun 15", "load": "Gentle", "loadKind": "gentle", "sunset": "4:10pm",
+      "events": [
+        { "day": "Mon 9", "text": "Indoor PE", "kind": "school" },
+        { "day": "Fri 13", "text": "Outdoor PE, piano lesson 4pm", "kind": "school" },
+        { "day": "Sat 14", "text": "Ruaridh T’s party at Knockhill, 9am to 2pm", "kind": "fun" }
+      ],
+      "anchorDay": "Sun 15", "anchorText": "A short loop near home, 30 minutes." },
+    { "num": "Week 2", "dates": "16–22 Nov", "who": "dad", "weekend": "Fri 20–Sun 22", "load": "Calm", "loadKind": "calm", "sunset": "4:00pm",
+      "events": [
+        { "day": "Mon 16", "text": "Indoor PE", "kind": "school" },
+        { "day": "Fri 20", "text": "Outdoor PE, piano lesson 4pm", "kind": "school" },
+        { "day": "Sun 22", "text": "Piano make-up lesson, 12pm", "kind": "school" }
+      ],
+      "anchorDay": "Sat 21", "anchorText": "Almondell and Calderwood Country Park, out by 11." },
+    { "num": "Week 3", "dates": "23–29 Nov", "who": "mum", "weekend": "Fri 27–Sun 29", "load": "Calm", "loadKind": "calm", "sunset": "3:50pm",
+      "events": [
+        { "day": "Mon 23", "text": "Indoor PE", "kind": "school" },
+        { "day": "Fri 27", "text": "Outdoor PE, piano lesson 4pm. Dad’s birthday", "kind": "fun" }
+      ],
+      "anchorDay": "Sat 28", "anchorText": "Union Canal walk at Ratho, out by 11." },
+    { "num": "Week 4", "dates": "30 Nov–6 Dec", "who": "dad", "weekend": "Fri 4–Sun 6", "load": "Calm", "loadKind": "calm", "sunset": "3:45pm",
+      "events": [
+        { "day": "Mon 30", "text": "St Andrew’s Day bank holiday. Check whether school is open", "kind": "school" },
+        { "day": "Fri 4", "text": "Outdoor PE, piano lesson 4pm", "kind": "school" },
+        { "day": "Sun 6", "text": "Sit down together and talk through what the birthday weekend will look like", "kind": "idea", "tag": "Idea" }
+      ],
+      "anchorDay": "Sat 5", "anchorText": "Pentland Hills, out by 11." },
+    { "num": "Week 5", "dates": "7–13 Dec", "who": "mum", "weekend": "Fri 11–Sun 13", "load": "Big weekend", "loadKind": "big", "sunset": "3:40pm",
+      "events": [
+        { "day": "Mon 7", "text": "Indoor PE", "kind": "school" },
+        { "day": "Fri 11", "text": "Outdoor PE, piano lesson 4pm", "kind": "school" },
+        { "day": "Sat 12", "text": "Ali’s Magical Meat Feast, Rio Brazilian Steakhouse, George Street, Edinburgh, 3:30pm", "kind": "fun" },
+        { "day": "Sun 13", "text": "Boys’ piano recital, 10:30am, West Calder Community Hub", "kind": "big", "tag": "Big day" },
+        { "day": "Sun 13", "text": "Ali’s 11th birthday", "kind": "big", "tag": "Big day" }
+      ],
+      "anchorDay": "Sat 12", "anchorText": "Birthday-eve adventure, Ali picks where. A calm bright morning outdoors, then home in good time for the 3:30pm meal." },
+    { "num": "Week 6", "dates": "14–20 Dec", "who": "dad", "weekend": "Fri 18–Sun 20", "load": "Gentle", "loadKind": "gentle", "sunset": "3:40pm",
+      "events": [
+        { "day": "Mon 14", "text": "Indoor PE", "kind": "school" },
+        { "day": "Fri 18", "text": "Last day of school. Christmas holiday starts. Outdoor PE", "kind": "fun" },
+        { "day": "Sat 19", "text": "Avengers: Doomsday, Cineworld Edinburgh, 11:50am", "kind": "fun" }
+      ],
+      "anchorDay": "Sun 20", "anchorText": "Linlithgow Loch and Palace loop." },
+    { "num": "Week 7", "dates": "21–27 Dec", "who": "mum", "weekend": "Fri 25–Sun 27", "note": "Follows the usual pattern. Christmas Eve and Day still to be agreed.", "load": "Festive", "loadKind": "festive", "sunset": "3:40pm",
+      "events": [
+        { "day": "Mon 21", "text": "Shortest day. The light comes back from here", "kind": "fun" },
+        { "day": "Thu 24", "text": "Christmas Eve", "kind": "fun" },
+        { "day": "Fri 25", "text": "Christmas Day", "kind": "fun" },
+        { "day": "Sat 26", "text": "Boxing Day", "kind": "fun" },
+        { "day": "Any day", "text": "Agree who Ali is with on Christmas Eve and Christmas Day, then add it to this card", "kind": "idea", "tag": "Idea" }
+      ],
+      "anchorDay": "Sat 26", "anchorText": "Boxing Day walk, out by 11." },
+    { "num": "Week 8", "dates": "28 Dec–3 Jan", "who": "dad", "weekend": "Fri 1–Sun 3", "load": "Quiet", "loadKind": "calm", "sunset": "3:50pm",
+      "events": [
+        { "day": "Mon 28", "text": "Bank holiday", "kind": "school" },
+        { "day": "Thu 31", "text": "New Year’s Eve", "kind": "fun" },
+        { "day": "Fri 1", "text": "New Year’s Day", "kind": "fun" },
+        { "day": "Sun 3", "text": "Easy evening: get school things ready for Tuesday", "kind": "idea", "tag": "Idea" }
+      ],
+      "anchorDay": "Sat 2", "anchorText": "Beecraigs Country Park, out by 11." },
+    { "num": "Week 9", "dates": "4–10 Jan", "who": "mum", "weekend": "Fri 8–Sun 10", "note": "Weekend follows the usual fortnight pattern.", "load": "Back to routine", "loadKind": "gentle", "sunset": "4:00pm",
+      "events": [
+        { "day": "Mon 4", "text": "Bank holiday (Scotland)", "kind": "school" },
+        { "day": "Tue 5", "text": "Back to school. Term 2 starts", "kind": "big", "tag": "School" },
+        { "day": "Fri 8", "text": "Outdoor PE, piano lesson 4pm", "kind": "school" }
+      ],
+      "anchorDay": "Sat 9", "anchorText": "Arthur’s Seat, Ali picks the route." }
+  ],
+  "lookingAhead": "After Term 2 starts on Tuesday 5 January there is one more break to look forward to: the February holiday, Friday 5 to Monday 15 February, back to school on Tuesday 16 February."
+}
